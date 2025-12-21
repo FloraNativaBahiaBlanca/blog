@@ -23,11 +23,10 @@ jobs:
         with:
           submodules: recursive  # Asegura que se clone el submódulo _base
 
-      - name: Move _base contents to root (preserve repo files)
+      - name: Move _base contents to root
         run: |
-          # Copy files from the _base submodule into the repository root
-          # but do NOT overwrite any files that already exist in the repo
-          rsync -a --ignore-existing _base/ .
+          mv _base/* .
+          mv _base/.* . 2>/dev/null || true
           rm -rf _base
 
       - name: Copy images to assets directory
