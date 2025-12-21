@@ -14,7 +14,7 @@ COPY images ./assets/images
 
 COPY ./_posts ./_posts
 
-COPY ./config.override.yml .
+COPY ./_config.override.yml .
 
 EXPOSE 4000
 
