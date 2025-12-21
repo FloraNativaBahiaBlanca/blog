@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Un mapa para conectar la divulgación de la flora nativa en Argentina"
+permalink: "/mapa-interactivo/"
 ---
 
 Argentina posee una enorme diversidad de ambientes y de plantas nativas, pero gran parte de ese patrimonio sigue siendo poco conocido por el público general. En los últimos años han surgido, a lo largo y ancho del país, numerosos proyectos que buscan revertir esta situación a través de la divulgación: iniciativas que muestran la flora local, explican su importancia ecológica y cultural, y promueven su valoración y conservación.
