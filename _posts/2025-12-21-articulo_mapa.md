@@ -6,7 +6,7 @@ permalink: "/mapa-interactivo/"
 
 Argentina posee una enorme diversidad de ambientes y de plantas nativas, pero gran parte de ese patrimonio sigue siendo poco conocido por el público general. En los últimos años han surgido, a lo largo y ancho del país, numerosos proyectos que buscan revertir esta situación a través de la divulgación: iniciativas que muestran la flora local, explican su importancia ecológica y cultural, y promueven su valoración y conservación.
 
-Con el objetivo de **visibilizar y conectar estos proyectos**, desde *Flora Nativa Bahía Blanca* creamos el **mapa interactivo de iniciativas de divulgación de flora nativa de Argentina**. El mismo se encuentra disponible en argentina.floranativabb.com.ar
+Con el objetivo de **visibilizar y conectar estos proyectos**, desde *Flora Nativa Bahía Blanca* creamos el **mapa interactivo de iniciativas de divulgación de flora nativa de Argentina**. El mismo se encuentra disponible en [argentina.floranativabb.com.ar](https://argentina.floranativabb.com.ar)
 
 Este mapa reúne proyectos de distintas regiones del país, permitiendo conocer qué iniciativas existen, dónde se desarrollan y desde qué enfoques trabajan la divulgación de la flora nativa.
 
@@ -80,7 +80,7 @@ Para mantener el orden y facilitar la exploración del mapa, los proyectos se en
 
 El mapa interactivo de proyectos de divulgación de la flora nativa es un proyecto dinámico, que crece a medida que nuevas iniciativas se suman. La intención es que siga siendo un espacio abierto, diverso y representativo de la riqueza de miradas y experiencias que existen en el país.
 
-Si tenés un proyecto que cumple con estos criterios y te interesa formar parte del mapa, podés completar el siguiente formulario:
+Si tenés un proyecto que cumple con estos criterios y te interesa formar parte del mapa, podés completar el siguiente formulario: [https://forms.gle/5RnfPpdfeHeXaszYA](https://forms.gle/5RnfPpdfeHeXaszYA)
 
 Si tenés dudas, consultas o sugerencias nos las podés hacer llegar a través de nuestro correo electrónico: floranativabb@gmail.com
 
