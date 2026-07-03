@@ -12,7 +12,6 @@ Con el objetivo de **visibilizar y conectar estos proyectos**, desde *Flora Nati
 
 Este mapa reúne proyectos de distintas regiones del país, permitiendo conocer qué iniciativas existen, dónde se desarrollan y desde qué enfoques trabajan la divulgación de la flora nativa.
 
-![Portada](https://argentina.floranativabb.com.ar/og-image.png)
 ------
 
 ## ¿De qué se trata el mapa?
