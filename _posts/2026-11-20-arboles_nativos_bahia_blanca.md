@@ -27,7 +27,7 @@ Es el único algarrobo nativo de la región. Tiene la particularidad de hibridar
 <div style="background-color: #E8F7EA; border-left: 4px solid #68D070; padding: 8px 12px; margin: 12px 0; border-radius: 4px; color: #1E4D24; font-size: 0.88em; line-height: 1.4;">
   Para más información sobre esta especie haz click <a href="https://floranativabb.com.ar/Neltuma-flexuosa/" style="color: #2A7A33; font-weight: bold; text-decoration: underline;">aquí</a>.
 </div>
-![Ejemplar centenario de Algarrobo Dulce](/media/fedrito/AC6C-E8D7/Proyectos/Web/blog/images/Imagenes/algarrobo.webp)
+![Ejemplar centenario de Algarrobo Dulce](/assets/images/Imagenes/algarrobo.webp)
 
 <center><font color="grey">Ejemplar centenario de Algarrobo Dulce ubicado en la Plaza del Algarrobo, Bahía Blanca. Declarado Patrimonio Verde Urbano por ordenanza 20.371.
 Foto: @plazadelalgarrobo</font></center>
@@ -45,7 +45,7 @@ Posee una raíz principal muy profunda, que puede representar un problema si se 
 <div style="background-color: #E8F7EA; border-left: 4px solid #68D070; padding: 8px 12px; margin: 12px 0; border-radius: 4px; color: #1E4D24; font-size: 0.88em; line-height: 1.4;">
   Para más información sobre esta especie haz click <a href="https://floranativabb.com.ar/Neltuma-caldenia/" style="color: #2A7A33; font-weight: bold; text-decoration: underline;">aquí</a>.
 </div>
-![Ejemplar de Caldén sobre la Carrindanga, Bahía Blanca](/media/fedrito/AC6C-E8D7/Proyectos/Web/blog/images/Imagenes/calden.webp)
+![Ejemplar de Caldén sobre la Carrindanga, Bahía Blanca](/assets/images/Imagenes/calden.webp)
 
 <center><font color="grey">Ejemplar de Caldén ubicado en la Carrindanga, Bahía Blanca, declarado patrimonio urbano por ordenanza 20.084. Por desgracia, este individuo resultó gravemente dañado luego del temporal que sufrió la ciudad en Diciembre de 2023.
 Foto: Roberto Simones</font></center>
@@ -63,7 +63,7 @@ A menudo presenta agallas en forma de «matecitos», provocadas por las larvas d
 <div style="background-color: #E8F7EA; border-left: 4px solid #68D070; padding: 8px 12px; margin: 12px 0; border-radius: 4px; color: #1E4D24; font-size: 0.88em; line-height: 1.4;">
   Para más información sobre esta especie haz click <a href="https://floranativabb.com.ar/Schinus-longifolia/" style="color: #2A7A33; font-weight: bold; text-decoration: underline;">aquí</a>.
 </div>
-![Ejemplar urbano de Molle](/media/fedrito/AC6C-E8D7/Proyectos/Web/blog/images/Imagenes/molle.webp)
+![Ejemplar urbano de Molle](/assets/images/Imagenes/molle.webp)
 
 <center><font color="grey">Uno de los ejemplares existentes de Molle en el arbolado de Bahía Blanca.
 Foto: Federico Ferrer</font></center>
@@ -81,7 +81,7 @@ Se trata de la única especie nativa de sauce, en peligro en gran parte del paí
 <div style="background-color: #E8F7EA; border-left: 4px solid #68D070; padding: 8px 12px; margin: 12px 0; border-radius: 4px; color: #1E4D24; font-size: 0.88em; line-height: 1.4;">
   Para más información sobre esta especie haz click <a href="https://floranativabb.com.ar/Salix-humboldtiana/" style="color: #2A7A33; font-weight: bold; text-decoration: underline;">aquí</a>.
 </div>
-![Ejemplar de Sauce Criollo sobre una vereda de la ciudad](/media/fedrito/AC6C-E8D7/Proyectos/Web/blog/images/Imagenes/saucecriollo.webp)
+![Ejemplar de Sauce Criollo sobre una vereda de la ciudad](/assets/images/Imagenes/saucecriollo.webp)
 
 <center><font color="grey">Ejemplar de Sauce Criollo en una vereda de Bahía Blanca.
 Foto: Mauro Fossati</font></center>
@@ -97,7 +97,7 @@ Es un árbol caducifolio que, en condiciones naturales, tiende a formar bosqueci
 <div style="background-color: #E8F7EA; border-left: 4px solid #68D070; padding: 8px 12px; margin: 12px 0; border-radius: 4px; color: #1E4D24; font-size: 0.88em; line-height: 1.4;">
   Para más información sobre esta especie haz click <a href="https://floranativabb.com.ar/Geoffroea-decorticans/" style="color: #2A7A33; font-weight: bold; text-decoration: underline;">aquí</a>.
 </div>
-![Ejemplar de Chañar en el Barrio Palihue, Bahía Blanca](/media/fedrito/AC6C-E8D7/Proyectos/Web/blog/images/Imagenes/chañar.webp)
+![Ejemplar de Chañar en el Barrio Palihue, Bahía Blanca](/assets/images/Imagenes/chañar.webp)
 
 <center><font color="grey">Ejemplar añoso de Chañar ubicado en el Barrio Palihue, Bahía Blanca.
 Foto: Mauro Fossati</font></center>
@@ -115,7 +115,7 @@ Un dato curioso es que se trata de una especie hemiparásita durante su juventud
 <div style="background-color: #E8F7EA; border-left: 4px solid #68D070; padding: 8px 12px; margin: 12px 0; border-radius: 4px; color: #1E4D24; font-size: 0.88em; line-height: 1.4;">
   Para más información sobre esta especie haz click <a href="https://floranativabb.com.ar/Jodina-rhombifolia/" style="color: #2A7A33; font-weight: bold; text-decoration: underline;">aquí</a>.
 </div>
-![Ejemplar de Sombra de Toro en la Av. Alem, Bahía Blanca](/media/fedrito/AC6C-E8D7/Proyectos/Web/blog/images/Imagenes/sombradetoro.webp)
+![Ejemplar de Sombra de Toro en la Av. Alem, Bahía Blanca](/assets/images/Imagenes/sombradetoro.webp)
 
 <center><font color="grey">Único ejemplar de Sombra de Toro en el arbolado urbano de Bahía Blanca. Declarado Patrimonio Verde Urbano por ordenanza 20.371.
 Foto: Melina Calfuan</font></center>
@@ -135,7 +135,7 @@ Es una especie que tolera sequías intensas y admite la poda. Al igual que el ch
 <div style="background-color: #E8F7EA; border-left: 4px solid #68D070; padding: 8px 12px; margin: 12px 0; border-radius: 4px; color: #1E4D24; font-size: 0.88em; line-height: 1.4;">
   Para más información sobre esta especie haz click <a href="https://floranativabb.com.ar/Vachellia-caven/" style="color: #2A7A33; font-weight: bold; text-decoration: underline;">aquí</a>.
 </div>
-![Ejemplar urbano de Espinillo en Bahía Blanca](/media/fedrito/AC6C-E8D7/Proyectos/Web/blog/images/Imagenes/espinillo.webp)
+![Ejemplar urbano de Espinillo en Bahía Blanca](/assets/images/Imagenes/espinillo.webp)
 
 <center><font color="grey">Ejemplar de Espinillo en una vereda de Bahía Blanca.
 Foto: Federico Ferrer</font></center>
@@ -152,7 +152,7 @@ Todos conocemos el clásico cedrón, de aroma alimonado (*Aloysia citrodora*). S
 
 Si bien se trata de un arbusto de entre 1 y 3 metros de altura, es posible darle forma de arbolito mediante la poda. Posee un gran potencial ornamental y también se recomienda para formar cercos vivos, debido a su ramificación desde la base. Florece en primavera y verano, y tanto sus flores como sus hojas son muy aromáticas. Se puede reproducir por semillas y esquejes.
 
-![Ejemplar de Cedrón del Monte en el Departamento de Agronomía, UNS, Bahía Blanca](/media/fedrito/AC6C-E8D7/Proyectos/Web/blog/images/Imagenes/cedron.webp)
+![Ejemplar de Cedrón del Monte en el Departamento de Agronomía, UNS, Bahía Blanca](/assets/images/Imagenes/cedron.webp)
 
 <center><font color="grey">Ejemplar de Cedrón del Monte en un cantero del Departamento de Agronomía (UNS), Bahía Blanca.
 Foto: Yanina Torres</font></center>
@@ -168,7 +168,7 @@ Florece en primavera y verano, y sus flores son muy vistosas, con pétalos amari
 <div style="background-color: #E8F7EA; border-left: 4px solid #68D070; padding: 8px 12px; margin: 12px 0; border-radius: 4px; color: #1E4D24; font-size: 0.88em; line-height: 1.4;">
   Para más información sobre esta especie haz click <a href="https://floranativabb.com.ar/Erythrostemon-gilliesii/" style="color: #2A7A33; font-weight: bold; text-decoration: underline;">aquí</a>.
 </div>
-![Ejemplar urbano de Barba de Chivo en Bahía Blanca](/media/fedrito/AC6C-E8D7/Proyectos/Web/blog/images/Imagenes/barbadechivo.webp)
+![Ejemplar urbano de Barba de Chivo en Bahía Blanca](/assets/images/Imagenes/barbadechivo.webp)
 
 <center><font color="grey">Ejemplar de Barba de Chivo podado como arbolito en una vereda de Bahía Blanca.
 Foto: Roberto Simones</font></center>
